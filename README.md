@@ -1,17 +1,24 @@
 ## Hi there 👋
 
-<!--
-**alexey-ovch/alexey-ovch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Мои ключевые области
 
-Here are some ideas to get you started:
+| Область | Навыки |
+|---------|--------|
+| **Поиск причин и следствий** | Matching, IPW, Double Lasso, DiD, Synthetic Control |
+| **A/B-тестирование** | Дизайн экспериментов, расчёт мощности, анализ метрик |
+| **Эконометрика** | Панельные данные, регрессионный анализ, проверка предположений |
+| **Программирование** | Python (Pandas, NumPy, SciPy), R, SQL, Excel |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexey-ovch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 Как со мной связаться
+
+- **Email:** owchinnikow.aleck@ya.ru
+- **Место:** Москва, РФ
+---
+
+## ⭐ Дополнительная информация
+
+- 🎓 **Образование:** Экономический факультет МГУ им. М. В. Ломоносова (бакалавриат, магистратура)
+- 📖 **Тема диплома:** Человеческий капитал в моделях роста и теории развития
+- 🏃 **Интересы:** Спорт, путешествия, русская культура и классическая музыка
+
+
